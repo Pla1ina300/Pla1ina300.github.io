@@ -1,7 +1,7 @@
 
 
 User-agent: *
-Allow: /https://vorkyt.github.io/gallery.html
-Disallow: /https://vorkyt.github.io/images/
-Disallow: /https://vorkyt.github.io/admin/
-Sitemap: https://vorkyt.github.io/sitemap.xml
+Allow: /https://Pla1ina300.github.io/gallery.html
+Disallow: /https://Pla1ina300.github.io/images/
+Disallow: /https://Pla1ina300.github.io/admin/
+Sitemap: https://Pla1ina300.github.io/sitemap.xml
